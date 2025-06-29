@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Croatian localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::HR",
+  "perl": "6.d",
+  "provides": {
+    "L10N::HR": "lib/L10N/HR.rakumod",
+    "RakuAST::Deparse::L10N::HR": "lib/RakuAST/Deparse/L10N/HR.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Croatian"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
